@@ -1,0 +1,7 @@
+#!/usr/bin/env escript
+%%! -sname node1 -mnesia dir "db_1"
+
+main(_) ->
+     mnesia:start(),
+     insert:main().
+

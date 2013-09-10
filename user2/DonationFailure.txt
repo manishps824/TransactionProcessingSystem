@@ -1,0 +1,5 @@
+
+[100,4002,3001,'node2@mps-Studio-1558',"22",'node2@mps-Studio-1558',
+ [['node1@mps-Studio-1558']],
+ 2].
+[200,4003,1001,'node1@mps-Studio-1558',"14",'node1@mps-Studio-1558',[],2].
